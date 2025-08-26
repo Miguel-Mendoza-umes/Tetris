@@ -25,5 +25,6 @@ P → pausar/reanudar juego
 S / N → volver a jugar o salir al terminar
 
 🔹 Autor
+
 Gmail: mendoza.miguel.gt@gmail.com
 GitHub: https://github.com/Miguel-Mendoza-umes
